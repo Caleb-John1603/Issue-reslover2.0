@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: CivicFix: Public Issue Tracker",
+  "description": "A community-driven platform for reporting and tracking civic issues like potholes, broken streetlights, and garbage overflow.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
